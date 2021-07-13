@@ -2,6 +2,7 @@
 
 ## Blogs
 - [A Short History of SvelteKit](https://dev.to/ajcwebdev/a-short-history-of-sveltekit-49lk)
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - A must read if you want to make sense of _why FE compiler frameworks?_
 
 ## Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
