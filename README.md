@@ -6,6 +6,9 @@
 ## Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
 
+## Condensed Thought-pieces (Twitter Threads)
+- [__Rich Harris__ on SvelteKit for SPAs](https://twitter.com/Rich_Harris/status/1376578502833606658)
+
 ## Podcasts
 - [Rebuilding LevelUpTuts using SvelteKit](https://share.transistor.fm/s/6316622d) ([@svelteradio](https://twitter.com/svelteradio)) - detail on the decisions and outcomes of migrating from React to Svelte
 
