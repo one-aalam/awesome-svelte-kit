@@ -1,8 +1,15 @@
 # Awesome SvelteKit
 
 ## Blogs
+### History & The Whys? ###
 - [A Short History of SvelteKit](https://dev.to/ajcwebdev/a-short-history-of-sveltekit-49lk)
+- [What's the deal with SvelteKit?](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - A must read if you want to make sense of _why FE compiler frameworks?_
+
+### The Hows? 
+- [How to Make a Website with SvelteKit](https://prismic.io/blog/svelte-sveltekit-tutorial)
+- [Simple Page Transitions with SvelteKit](https://dev.to/evanwinter/page-transitions-with-svelte-kit-35o6)
+- [Theme Switch](https://dev.to/nico_bachner/sveltekit-theme-switch-a58)
 
 ## Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
@@ -17,5 +24,8 @@
 - [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 - [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
 
-## Starter-kits
-- [Svelte Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with Supabase.io)
+## SvelteKit Starter Kits, Explorations and Integrations
+- [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
+- [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
+- [SvelteKit with Magic Link](https://github.com/srmullen/sveltekit-magic)(with [magic.link](https://magic.link/)
+- [SvelteKit with Stripe](https://github.com/srmullen/sveltekit-stripe)
