@@ -11,3 +11,6 @@
 
 ## Projects
 - [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
+
+## Starter-kits
+- [Svelte Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with Supabase.io)
