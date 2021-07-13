@@ -11,6 +11,7 @@
 
 ## Projects
 - [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
+- [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
 
 ## Starter-kits
 - [Svelte Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with Supabase.io)
