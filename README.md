@@ -1,1 +1,13 @@
-# awesome-svelte-kit
+# Awesome Svelte-Kit
+
+## Blogs
+
+
+## Videos/Screencasts/Twitch
+
+
+## Podcasts
+- [Rebuilding LevelUpTuts using SvelteKit](https://share.transistor.fm/s/6316622d) ([@svelteradio](https://twitter.com/svelteradio)) - detail on the decisions and outcomes of migrating from React to Svelte
+
+## Projects
+- [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
