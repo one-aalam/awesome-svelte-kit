@@ -23,6 +23,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 
 ## Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
+- [SvelteKit blog from Scratch](https://www.youtube.com/playlist?list=PLm_Qt4aKpfKi1LCngULWPrTEPxla8eGLr) (YouTube Playlist)
+- [SvelteKit Firebase Auth](https://www.youtube.com/watch?v=XIiOhorRwUg&list=PLm_Qt4aKpfKhEzGutYRnqBOBgJ6WayTVg) (YouTube Playlist)
 
 ## Condensed Thought-pieces (Twitter Threads)
 - [__Rich Harris__ on SvelteKit for SPAs](https://twitter.com/Rich_Harris/status/1376578502833606658)
