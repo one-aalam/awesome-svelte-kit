@@ -3,6 +3,7 @@ SvelteKit is awesome. It's "the missing CLI" and the svelte team's favoured proj
 - File/Folder based routing
 - focus on server-less _with adapters_
 - API routes
+
 and good baked-in conventions and constructs to support common web app needs. It's a successor to [Sapper](https://sapper.svelte.dev/) which served the aforementioned needs, with exception of adapters, which is special/unique(with no officially provided parallels in Next.js/Nuxt ecosystems yet) way to make vendor-agnostic, server-less first deployment concern a seamlessly integrated part of the framework. 
 
 ## Blogs
