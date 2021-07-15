@@ -7,13 +7,13 @@ SvelteKit is awesome. It's "the missing CLI" and the svelte team's favoured proj
 and good baked-in conventions and constructs to support common web app needs. It's a successor to [Sapper](https://sapper.svelte.dev/) which served the aforementioned needs, with exception of adapters, which is special/unique(with no officially provided parallels in Next.js/Nuxt ecosystems yet) way to make vendor-agnostic, server-less first deployment concern a seamlessly integrated part of the framework. 
 
 ## ✍️ Blogs
-### History & The Whys? ###
+### History & _The Why's?_ ###
 - [A Short History of SvelteKit](https://dev.to/ajcwebdev/a-short-history-of-sveltekit-49lk)
 - [What's the deal with SvelteKit?](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - A must read if you want to make sense of _why FE compiler frameworks?_
 - [Svelte Kit, the first ‘serverless-first’ framework?](https://www.voorhoede.nl/en/blog/svelte-kit-the-first-serverless-first-framework/)
 
-### The Hows?
+### The _How To's?_
 - [How to Create a Blog with SvelteKit and Strapi](https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi)
 - [A Beginner’s Guide to SvelteKit](https://www.sitepoint.com/a-beginners-guide-to-sveltekit/)
 - [How to Make a Website with SvelteKit](https://prismic.io/blog/svelte-sveltekit-tutorial)
