@@ -20,6 +20,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Simple Page Transitions with SvelteKit](https://dev.to/evanwinter/page-transitions-with-svelte-kit-35o6)
 - [Theme Switch](https://dev.to/nico_bachner/sveltekit-theme-switch-a58)
 - [DIY SvelteKit CDK adapter](https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp)
+- [Build your next commerce store with SvelteKit](https://commercejs.com/blog/ecommerce-storefront-with-sveltekit/)
+- [Use Apollo Client with SvelteKit to Query a GraphQL API](https://rodneylab.com/use-apollo-client-sveltekit/)
 
 ## 📹 Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
@@ -37,6 +39,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 - [SvelteKit with Magic Link](https://github.com/srmullen/sveltekit-magic)(with [magic.link](https://magic.link/)
 - [SvelteKit with Stripe](https://github.com/srmullen/sveltekit-stripe)
+- [SvelteKit with Storybook](https://imfeld.dev/writing/sveltekit_with_storybook) (blog)
+
 
 ## 📦 Projects
 - [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
