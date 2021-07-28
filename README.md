@@ -47,3 +47,5 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SveltePress](https://github.com/GeopJr/SveltePress) - documentation tool built on top of SvelteKit,
 - [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
 - [Reddit Client](https://github.com/jatinhemnani01/reddit-client)
+- [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce)
