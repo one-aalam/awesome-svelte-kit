@@ -39,6 +39,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 - [SvelteKit with Magic Link](https://github.com/srmullen/sveltekit-magic)(with [magic.link](https://magic.link/)
 - [SvelteKit with Stripe](https://github.com/srmullen/sveltekit-stripe)
+- [SvelteKit with Notion](https://github.com/one-aalam/svelte-notion-kit)
 - [SvelteKit with Storybook](https://imfeld.dev/writing/sveltekit_with_storybook) (blog)
 
 
