@@ -38,7 +38,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
 - [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 - [SvelteKit with Magic Link](https://github.com/srmullen/sveltekit-magic)(with [magic.link](https://magic.link/)
-- [SvelteKit with Stripe](https://github.com/srmullen/sveltekit-stripe)
+- SvelteKit with Stripe [#1](https://github.com/srmullen/sveltekit-stripe) and [#2](https://github.com/joshnuss/svelte-stripe-js)
 - [SvelteKit with Notion](https://github.com/one-aalam/svelte-notion-kit)
 - [SvelteKit with Storybook](https://imfeld.dev/writing/sveltekit_with_storybook) (blog)
 
