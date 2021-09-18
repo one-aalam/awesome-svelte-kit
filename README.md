@@ -47,20 +47,29 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with oAuth2](https://github.com/MacFJA/svelte-oauth2)
 - [SvelteKit with NetlifyCMS](https://github.com/buhrmi/sveltekit-netlify-cms)
 - [SvelteKit with Sanity](https://github.com/stephane-vanraes/demo-sveltekit-sanity/)
+- [SvelteKit with Web3](https://github.com/wighawag/jolly-roger)
 
 ## 📦 Built With Svelte
 ### Open-Source Projects
-- [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
+- [evidence.dev](https://github.com/evidence-dev/evidence) - Business Intelligence for Modern Data Teams
 - [SveltePress](https://github.com/GeopJr/SveltePress) - documentation tool built on top of SvelteKit,
 - [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
 - [Reddit Client](https://github.com/jatinhemnani01/reddit-client)
 - [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+- [MacOS Web](https://github.com/puruvj/macos-web) - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce)
 - [Svelte Steps](https://github.com/shaozi/svelte-steps)
 - [SvelteKit Snippets](https://github.com/stordahl/sveltekit-snippets)
+- [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
-### Websites
+### Websites/Apps 
+- [radiofrance.fr](https://www.radiofrance.fr/)
+- [leveluptutorials.com](https://leveluptutorials.com/)
+- [projectwallace.com](https://www.projectwallace.com/)
+- [rykr.co](https://rykr.co/)
 - [flayks.com](https://flayks.com/)
+- [kineticsnow.com](https://www.kineticsnow.com/)
+- [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
 - [mortimerbaltus.com](https://mortimerbaltus.com/)
 - [quickfantasystats.com](https://quickfantasystats.com/)
 - [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
