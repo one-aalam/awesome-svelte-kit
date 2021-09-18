@@ -41,6 +41,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 - SvelteKit with Stripe [#1](https://github.com/srmullen/sveltekit-stripe) and [#2](https://github.com/joshnuss/svelte-stripe-js)
 - [SvelteKit with Notion](https://github.com/one-aalam/svelte-notion-kit)
 - [SvelteKit with Storybook](https://imfeld.dev/writing/sveltekit_with_storybook) (blog)
+- [SvelteKit with Firebase](https://github.com/CaptainCodeman/sveltekit-example)
+- [SvelteKit with oAuth2](https://github.com/MacFJA/svelte-oauth2)
 
 
 ## 📦 Projects
