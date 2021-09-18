@@ -34,7 +34,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 ## 🗣️ Podcasts
 - [Rebuilding LevelUpTuts using SvelteKit](https://share.transistor.fm/s/6316622d) ([@svelteradio](https://twitter.com/svelteradio)) - detail on the decisions and outcomes of migrating from React to Svelte
 
-## 🏃 SvelteKit Starter Kits, Explorations and Integrations
+## 🏃 SvelteKit Starter Kits and Integrations
 - [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
 - [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase)(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 - [SvelteKit with Magic Link](https://github.com/srmullen/sveltekit-magic)(with [magic.link](https://magic.link/)
@@ -42,13 +42,25 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with Notion](https://github.com/one-aalam/svelte-notion-kit)
 - [SvelteKit with Storybook](https://imfeld.dev/writing/sveltekit_with_storybook) (blog)
 - [SvelteKit with Firebase](https://github.com/CaptainCodeman/sveltekit-example)
+- [SvelteKit + Firebase Library](https://github.com/jacobbowdoin/sveltefirets)([docs](https://sveed.dev/docs/sveltefirets))
+- [SvelteKit with Passport/oAuth2](https://www.npmjs.com/package/sveltekit-passport-oauth2)
 - [SvelteKit with oAuth2](https://github.com/MacFJA/svelte-oauth2)
+- [SvelteKit with NetlifyCMS](https://github.com/buhrmi/sveltekit-netlify-cms)
+- [SvelteKit with Sanity](https://github.com/stephane-vanraes/demo-sveltekit-sanity/)
 
-
-## 📦 Projects
+## 📦 Built With Svelte
+### Open-Source Projects
 - [Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 - [SveltePress](https://github.com/GeopJr/SveltePress) - documentation tool built on top of SvelteKit,
 - [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
 - [Reddit Client](https://github.com/jatinhemnani01/reddit-client)
 - [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce)
+- [Svelte Steps](https://github.com/shaozi/svelte-steps)
+- [SvelteKit Snippets](https://github.com/stordahl/sveltekit-snippets)
+
+### Websites
+- [flayks.com](https://flayks.com/)
+- [mortimerbaltus.com](https://mortimerbaltus.com/)
+- [quickfantasystats.com](https://quickfantasystats.com/)
+- [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
