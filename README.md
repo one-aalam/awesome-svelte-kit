@@ -48,6 +48,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with NetlifyCMS](https://github.com/buhrmi/sveltekit-netlify-cms)
 - [SvelteKit with Sanity](https://github.com/stephane-vanraes/demo-sveltekit-sanity/)
 - [SvelteKit with Web3](https://github.com/wighawag/jolly-roger)
+- [SvelteKit with Solana](https://github.com/silvestrevivo/solana-svelte-wallet)
 
 ## 📦 Built With Svelte
 ### Open-Source Projects
@@ -75,3 +76,4 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Files](https://files.community/)([source](https://github.com/files-community/website)) - 3rd Party File Manager for Windows 
 - [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
 - [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
+- [bahaistudies.ca](https://2021.bahaistudies.ca/)
