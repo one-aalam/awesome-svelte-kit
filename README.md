@@ -72,5 +72,5 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
 - [mortimerbaltus.com](https://mortimerbaltus.com/)
 - [quickfantasystats.com](https://quickfantasystats.com/)
-- [Files](https://files.community/)((source)[https://github.com/files-community/website]) - 3rd Party File Manager for Windows 
+- [Files](https://files.community/)([source](https://github.com/files-community/website)) - 3rd Party File Manager for Windows 
 - [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
