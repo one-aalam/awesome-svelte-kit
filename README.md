@@ -63,14 +63,15 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
+- [sveltesummit.com](https://sveltesummit.com/)
 - [radiofrance.fr](https://www.radiofrance.fr/)
 - [leveluptutorials.com](https://leveluptutorials.com/)
 - [projectwallace.com](https://www.projectwallace.com/)
 - [rykr.co](https://rykr.co/)
 - [flayks.com](https://flayks.com/)
 - [kineticsnow.com](https://www.kineticsnow.com/)
-- [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
 - [mortimerbaltus.com](https://mortimerbaltus.com/)
 - [quickfantasystats.com](https://quickfantasystats.com/)
 - [Files](https://files.community/)([source](https://github.com/files-community/website)) - 3rd Party File Manager for Windows 
 - [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
+- [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
