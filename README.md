@@ -77,3 +77,4 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Dragsters.vercel](https://inferno-dragsters.vercel.app/)
 - [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
 - [bahaistudies.ca](https://2021.bahaistudies.ca/)
+- [connorrothschild.com](https://connorrothschild.com)
