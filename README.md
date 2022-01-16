@@ -22,6 +22,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [DIY SvelteKit CDK adapter](https://dev.to/juranki/diy-sveltekit-cdk-adapter-3enp)
 - [Build your next commerce store with SvelteKit](https://commercejs.com/blog/ecommerce-storefront-with-sveltekit/)
 - [Use Apollo Client with SvelteKit to Query a GraphQL API](https://rodneylab.com/use-apollo-client-sveltekit/)
+- [Make an RSS Feed for your SvelteKit Project](https://scottspence.com/posts/make-an-rss-feed-with-sveltekit)
 
 ## 📹 Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
@@ -49,6 +50,20 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with Sanity](https://github.com/stephane-vanraes/demo-sveltekit-sanity/)
 - [SvelteKit with Web3](https://github.com/wighawag/jolly-roger)
 - [SvelteKit with Solana](https://github.com/silvestrevivo/solana-svelte-wallet)
+- [SvelteKit with Metamask/Unlock-Protocol](https://github.com/novum-insights/sveltekit-unlock-firebase)
+- [Swyxkit](https://swyxkit.netlify.app/)
+
+## Adapters
+- [Deno](https://github.com/pluvial/svelte-adapter-deno)
+
+## Meta-Meta
+List of tools that simplify SvelteKit DX further
+- [Svemix](https://github.com/svemix/svemix) Like Remix.run(Full-Stack addition) to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.
+- [Svelte Zero API](https://github.com/ymzuiku/svelte-zero-api)
+- [SvelteKit Zero API](https://github.com/Refzlund/sveltekit-zero-api/tree/master/lib)
+
+## Enhancers
+- [Themes - Dark Mode](https://github.com/beynar/svelte-themes)
 
 ## 📦 Built With Svelte
 ### Open-Source Projects
@@ -61,6 +76,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce)
 - [Svelte Steps](https://github.com/shaozi/svelte-steps)
 - [SvelteKit Snippets](https://github.com/stordahl/sveltekit-snippets)
+- [Scores](https://betarena-scores-platform.herokuapp.com/)([code](https://github.com/Betarena/scores))
+- [Naabu](https://github.com/naabu/naabu)
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
@@ -78,3 +95,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [netimmo.ch](https://www.netimmo.ch/appartement-a-vendre-suisse)
 - [bahaistudies.ca](https://2021.bahaistudies.ca/)
 - [connorrothschild.com](https://connorrothschild.com)
+- [blfcreative.dev](https://www.blfcreative.dev/)
+- [base.report](https://base.report/)
+- [ip.new](https://ip.new/)(just sub-domains)
+- [teamtale.app](https://teamtale.app/)
