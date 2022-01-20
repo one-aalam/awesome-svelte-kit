@@ -55,7 +55,21 @@ and good baked-in conventions and constructs to support common web app needs. It
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
+- [Firebase](https://github.com/jthegedus/svelte-adapter-firebase)
+- [Azure SWA](https://github.com/geoffrich/svelte-adapter-azure-swa)
 - [Express](https://github.com/mankins/svelte-adapter-express)
+- [AppEngine](https://github.com/HalfdanJ/svelte-adapter-appengine)
+- [Architect/Begin](https://github.com/architect/sveltekit-adapter)
+- [Cloudflare](https://github.com/budgetdraw/sveltekit-cloudflare-adapter)
+- [AWS Lambda](https://github.com/yarbsemaj/sveltekit-adapter-lambda)
+- [Begin](https://github.com/ryanbethel/sveltekit-begin-adapter)
+- [Nest.js](https://github.com/onivoro/svelte-adapter-nestjs)
+- [AWS Lambda@Edge](https://github.com/efess/svelte-adapter-lambda-edge)
+- [AWS CDK](https://github.com/juranki/diy-sveltekit-cdk-adapter) (Exercise)
+- [Wordpress Shortcode](https://github.com/tomatrow/sveltekit-adapter-wordpress-shortcode)
+- [Github Pages](https://github.com/ota-meshi/svelte-adapter-ghpages)
+- [HTML Templating Languages](https://github.com/idleberg/sveltekit-adapter-html-like)
+- [Chrome Extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension)
 
 ## Meta-Meta
 List of tools that simplify SvelteKit DX further
