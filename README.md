@@ -55,6 +55,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
+- [Express](https://github.com/mankins/svelte-adapter-express)
 
 ## Meta-Meta
 List of tools that simplify SvelteKit DX further
