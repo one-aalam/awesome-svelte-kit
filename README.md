@@ -94,6 +94,7 @@ List of tools that simplify SvelteKit DX further
 - [SvelteKit Snippets](https://github.com/stordahl/sveltekit-snippets)
 - [Scores](https://betarena-scores-platform.herokuapp.com/)([code](https://github.com/Betarena/scores))
 - [Naabu](https://github.com/naabu/naabu)
+- [Coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
