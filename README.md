@@ -32,6 +32,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [How to use Serverless Cloud with SvelteKit](https://www.serverless.com/blog/how-to-use-serverless-cloud-with-sveltekit)
 - [Building a real-time websocket app using SvelteKit](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)
 - [How to use a Rust WebAssembly module in Svelte with Web Workers](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
+- [Getting Started with KitQL and GraphCMS](https://scottspence.com/posts/getting-started-with-kitql-and-graphcms)
 
 ## 📹 Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
