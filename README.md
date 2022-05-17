@@ -71,6 +71,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with tRPC](https://github.com/icflorescu/trpc-sveltekit-example) - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit
 - [Svelte(Kit) TypeScript Showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase)
 - [Swyxkit](https://github.com/sw-yx/swyxkit) - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
+- [Urara](https://urara-docs.netlify.app/) - Sweet & Powerful SvelteKit Blog Template
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
