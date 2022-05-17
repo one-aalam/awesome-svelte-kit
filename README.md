@@ -72,6 +72,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Svelte(Kit) TypeScript Showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase)
 - [Swyxkit](https://github.com/sw-yx/swyxkit) - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
 - [Urara](https://urara-docs.netlify.app/) - Sweet & Powerful SvelteKit Blog Template
+- [SvelteKit with Email](https://github.com/miunau/worker-kit-email) - Develop transactional emails with SvelteKit on CloudFlare Workers
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
