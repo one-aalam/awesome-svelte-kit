@@ -12,6 +12,8 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [What's the deal with SvelteKit?](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - A must read if you want to make sense of _why FE compiler frameworks?_
 - [Svelte Kit, the first ‘serverless-first’ framework?](https://www.voorhoede.nl/en/blog/svelte-kit-the-first-serverless-first-framework/)
+- [Would you use Sveltekit for production?](https://www.reddit.com/r/sveltejs/comments/qt14c6/would_you_use_sveltekit_for_production/)
+- [My Evaluation of SvelteKit for Full-Stack Web App Development](https://cprimozic.net/blog/trying-out-sveltekit/)
 
 ### The _How To's?_
 - [How to Create a Blog with SvelteKit and Strapi](https://strapi.io/blog/how-to-create-a-blog-with-svelte-kit-strapi)
@@ -23,14 +25,24 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Build your next commerce store with SvelteKit](https://commercejs.com/blog/ecommerce-storefront-with-sveltekit/)
 - [Use Apollo Client with SvelteKit to Query a GraphQL API](https://rodneylab.com/use-apollo-client-sveltekit/)
 - [Make an RSS Feed for your SvelteKit Project](https://scottspence.com/posts/make-an-rss-feed-with-sveltekit)
+- [Let's learn SvelteKit by building a static Markdown blog from scratch](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
+- [Converting from Gridsome to SvelteKit](https://joshcollinsworth.com/blog/converting-from-gridsome-to-sveltekit)
+- [SvelteKit and the "Client pattern"](https://retro.cloud/sveltekit-and-the-client-pattern/)
+- [Simplify data fetching in SvelteKit with page endpoints](https://baptiste.devessier.fr/writing/simplify-data-fetching-in-sveltekit-with-page-endpoints/)
+- [How to use Serverless Cloud with SvelteKit](https://www.serverless.com/blog/how-to-use-serverless-cloud-with-sveltekit)
+- [Building a real-time websocket app using SvelteKit](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)
+- [How to use a Rust WebAssembly module in Svelte with Web Workers](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
 
 ## 📹 Videos/Screencasts/Twitch
 - [An Update on SvelteKit](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=19101s) - Rich Harris on SvelteKit(SvelteSummit)
 - [SvelteKit blog from Scratch](https://www.youtube.com/playlist?list=PLm_Qt4aKpfKi1LCngULWPrTEPxla8eGLr) (YouTube Playlist)
 - [SvelteKit Firebase Auth](https://www.youtube.com/watch?v=XIiOhorRwUg&list=PLm_Qt4aKpfKhEzGutYRnqBOBgJ6WayTVg) (YouTube Playlist)
+- [Svelte and SvelteKit - Why We Love It and Why You Should Try It](https://www.youtube.com/watch?v=KJ-qMlZnMCE)
+- [Rich Harris - The Road to SvelteKit 1.0 ](https://www.youtube.com/watch?v=s6a1pbTVcUs)
 
 ## 🧶 Condensed Thought-pieces (Twitter Threads)
 - [__Rich Harris__ on SvelteKit for SPAs](https://twitter.com/Rich_Harris/status/1376578502833606658)
+- [__Mike__'s thoughts on maturity of Svelte/SvelteKit](https://twitter.com/htmleverything/status/1515000240134242309)
 
 ## 🗣️ Podcasts
 - [Rebuilding LevelUpTuts using SvelteKit](https://share.transistor.fm/s/6316622d) ([@svelteradio](https://twitter.com/svelteradio)) - detail on the decisions and outcomes of migrating from React to Svelte
@@ -52,6 +64,13 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [SvelteKit with Solana](https://github.com/silvestrevivo/solana-svelte-wallet)
 - [SvelteKit with Metamask/Unlock-Protocol](https://github.com/novum-insights/sveltekit-unlock-firebase)
 - [Swyxkit](https://swyxkit.netlify.app/)
+- [SvelteKit Starter](https://github.com/navneetsharmaui/sveltekit-starter) - Starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook
+- [SvelteKit with PostgREST](https://github.com/guyromm/svelte-postgrest-template) - Svelte/SvelteKit + PostgREST + EveryLayout + social auth starter template
+- [SvelteKit on Edge(Vercel)](https://github.com/Rich-Harris/sveltekit-on-the-edge)
+- [SvelteKit on Edge(Cloudflare Workers)](https://github.com/hazcod/cloudflare-workers-svelte)
+- [SvelteKit with tRPC](https://github.com/icflorescu/trpc-sveltekit-example) - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit
+- [Svelte(Kit) TypeScript Showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase)
+- [Swyxkit](https://github.com/sw-yx/swyxkit) - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
@@ -77,9 +96,16 @@ List of tools that simplify SvelteKit DX further
 - [Svemix](https://github.com/svemix/svemix) Like Remix.run(Full-Stack addition) to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.
 - [Svelte Zero API](https://github.com/ymzuiku/svelte-zero-api)
 - [SvelteKit Zero API](https://github.com/Refzlund/sveltekit-zero-api/tree/master/lib)
+- [KitDocs](https://kit-docs.svelteness.dev/docs/getting-started/introduction) - KitDocs makes it easy to build a documentation site with SvelteKit. You can think of it as a VitePress alternative for the people of Svelte.
+- [Sveltin](https://github.com/sveltinio/sveltin) - The Smartest Way to Build SvelteKit powered static websites: a powerful CLI for your next SvelteKit static website
 
-## Enhancers
+## Enhancers/Extensions
 - [Themes - Dark Mode](https://github.com/beynar/svelte-themes)
+- [SvelteKit SVG](https://github.com/poppa/sveltekit-svg) - SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls
+- [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session) - Encrypted "stateless" cookie sessions for SvelteKit
+- [tRPC SvelteKit](https://github.com/icflorescu/trpc-sveltekit)
+- [Metawrite SDK](https://github.com/koodeau/metawrite)
+- [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed)
 
 ## 📦 Built With Svelte
 ### Open-Source Projects
@@ -95,6 +121,8 @@ List of tools that simplify SvelteKit DX further
 - [Scores](https://betarena-scores-platform.herokuapp.com/)([code](https://github.com/Betarena/scores))
 - [Naabu](https://github.com/naabu/naabu)
 - [Coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit
+- [Webstone](https://github.com/WebstoneHQ/webstone) - Start your next full-stack application with Webstone and configure it as you go.
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
