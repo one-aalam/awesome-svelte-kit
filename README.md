@@ -74,6 +74,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Swyxkit](https://github.com/sw-yx/swyxkit) - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
 - [Urara](https://urara-docs.netlify.app/) - Sweet & Powerful SvelteKit Blog Template
 - [SvelteKit with Email](https://github.com/miunau/worker-kit-email) - Develop transactional emails with SvelteKit on CloudFlare Workers
+- [SvelteKit with Elementary Audio](https://github.com/bgins/svelte-elementary-template) - A SvelteKit template for Elementary Audio apps
 
 ## Adapters
 - [Deno](https://github.com/pluvial/svelte-adapter-deno)
@@ -126,6 +127,10 @@ List of tools that simplify SvelteKit DX further
 - [Coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit
 - [Webstone](https://github.com/WebstoneHQ/webstone) - Start your next full-stack application with Webstone and configure it as you go.
+- [SvelteFlow](https://github.com/doceazedo/svelte-flow) - 📈 Svelte library for building node-based graphs
+- [Flowbite](https://github.com/edde746/flowbite-svelte-but-better) - Clone of flowbite-react but for Svelte without the jank of flowbite-svelte
+- [Wordex](https://wordex.app/about) - Wordex clone built with SvelteKit
+- [LearnAwesome](https://github.com/learn-awesome/learndb) - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
@@ -147,3 +152,6 @@ List of tools that simplify SvelteKit DX further
 - [base.report](https://base.report/)
 - [ip.new](https://ip.new/)(just sub-domains)
 - [teamtale.app](https://teamtale.app/)
+- [limey.io](https://limey.io/)
+- [stockanalysis.com](https://stockanalysis.com/)
+- [app.calandrier.com](https://app.calandrier.com/)
