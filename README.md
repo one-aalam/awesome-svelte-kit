@@ -94,6 +94,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [Github Pages](https://github.com/ota-meshi/svelte-adapter-ghpages)
 - [HTML Templating Languages](https://github.com/idleberg/sveltekit-adapter-html-like)
 - [Chrome Extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension)
+- [Bun](https://github.com/gornostay25/svelte-adapter-bun)
 
 ## Meta-Meta
 List of tools that simplify SvelteKit DX further
@@ -155,3 +156,11 @@ List of tools that simplify SvelteKit DX further
 - [limey.io](https://limey.io/)
 - [stockanalysis.com](https://stockanalysis.com/)
 - [app.calandrier.com](https://app.calandrier.com/)
+- [kadium.kasper.space](https://kadium.kasper.space/)
+- [fusepilot.com](https://fusepilot.com/)
+- [prediabetes.guide](https://prediabetes.guide/)
+- [moxiekb.com](https://moxiekb.com/)
+- [see.net.ph](https://see.net.ph/)
+- [enka.shinshin.moe](https://enka.shinshin.moe/)
+- [siva.gg](https://siva.gg/)
+- [cuddy.me](https://cuddy.me/)
