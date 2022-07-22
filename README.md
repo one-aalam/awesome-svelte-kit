@@ -95,6 +95,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 - [HTML Templating Languages](https://github.com/idleberg/sveltekit-adapter-html-like)
 - [Chrome Extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension)
 - [Bun](https://github.com/gornostay25/svelte-adapter-bun)
+- [uWebSocket](https://github.com/UnlimitedBytes/adapter-uwebsockets) (in development)
 
 ## Meta-Meta
 List of tools that simplify SvelteKit DX further
