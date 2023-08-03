@@ -133,6 +133,7 @@ List of tools that simplify SvelteKit DX further
 - [Flowbite](https://github.com/edde746/flowbite-svelte-but-better) - Clone of flowbite-react but for Svelte without the jank of flowbite-svelte
 - [Wordex](https://wordex.app/about) - Wordex clone built with SvelteKit
 - [LearnAwesome](https://github.com/learn-awesome/learndb) - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
+- [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source UML diagram generator for PocketBase 
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
