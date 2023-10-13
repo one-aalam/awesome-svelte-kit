@@ -167,3 +167,4 @@ List of tools that simplify SvelteKit DX further
 - [siva.gg](https://siva.gg/)
 - [cuddy.me](https://cuddy.me/)
 - [Tiny Little Paws](https://tinylittlepaws.com) ([code](https://github.com/dvliman/paws)) - A marketing website for dog grooming services in Chino Hills, California.
+- [Bixoto.com](https://bixoto.com/) ([blog post](https://tech.bixoto.com/how-does-bixoto-com-work/)) - A Spanish ecommerce website
