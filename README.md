@@ -134,6 +134,7 @@ List of tools that simplify SvelteKit DX further
 - [Wordex](https://wordex.app/about) - Wordex clone built with SvelteKit
 - [LearnAwesome](https://github.com/learn-awesome/learndb) - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
 - [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source UML diagram generator for PocketBase 
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted Laravel CMS with a REST API v1 for use as a headless backend with SvelteKit. See the [SvelteKit integration guide](https://unfoldcms.com/unfoldcms-sveltekit-integration).
 - [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit)
 
 ### Websites/Apps 
