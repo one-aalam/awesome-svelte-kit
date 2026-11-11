@@ -115,6 +115,7 @@ List of tools that simplify SvelteKit DX further
 
 ## 📦 Built With Svelte
 ### Open-Source Projects
+- [Markstream Svelte](https://github.com/Simon-He95/markstream-vue/tree/main/packages/markstream-svelte) - Streaming Markdown renderer for Svelte 5 and SvelteKit AI chat interfaces.
 - [evidence.dev](https://github.com/evidence-dev/evidence) - Business Intelligence for Modern Data Teams
 - [SveltePress](https://github.com/GeopJr/SveltePress) - documentation tool built on top of SvelteKit,
 - [Dockit](https://github.com/crinklesio/dockit) - Markdown-based document site
